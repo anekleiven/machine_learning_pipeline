@@ -3,7 +3,7 @@
 This repository contains a machine learning pipeline for classifying somatic 
 cancer variants from the GENIE dataset as oncogenic or likely neutral. Three 
 classifiers are compared (Logistic Regression, Random Forest, XGBoost) across 
-multiple feature sets, with XGBoost achieving the best performance.
+multiple feature sets, with Random Forest achieving the best performance.
 
 The pipeline produces trained models for the three classifiers, including model evaluation
 and feature importances/coefficients. 
