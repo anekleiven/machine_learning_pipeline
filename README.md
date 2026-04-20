@@ -32,11 +32,11 @@ Please follow the instructions in the repositories listed below.
 
 `01_Preprocessing.ipynb`: Data preprocessing prior to exploratory analysis (create new columns, feature selection for modeling, create ML-dataframe, filter variants to target oncogenic classes, check for missing values, handle missing gnomAD_AF values). 
 
-`02_Exploratory_Analysis.ipynb`: Exploratory data analysis prior to ML (initial data inspection, descriptive statistics, missing value analysis, target value analysis, gene distribution analysis, univariate analysis, multivariate analysis, top genes). 
+`02_Exploratory_Analysis.ipynb`: Exploratory data analysis prior to ML (initial data inspection, descriptive statistics, target value analysis, univariate analysis, multivariate analysis, top genes). 
 
-`03_Data_preparation.ipynb`: Data processing prior to ML-modeling (log transformation, map target to binary numbers, remove gene names, feature engineering, data splitting, identify outliers, save datasets). 
+`03_Data_preparation.ipynb`: Data preparation prior to ML-modeling (log transformation, drop redundant columns, map target to binary numbers, feature engineering, data splitting, identify outliers). 
 
-`04_Model_Training.ipynb`: ML-modeling and model evaluation (Logistic regression, Random Forest and XGBoost. Hyperparameter tuning, model fitting and evaluation). 
+`04_Model_Training.ipynb`: ML-modeling and model evaluation (Logistic regression, Random Forest and XGBoost). 
 
 
 ## Recommended Sources 🛜
