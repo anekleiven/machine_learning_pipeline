@@ -14,10 +14,7 @@ multiple feature sets, with Random Forest achieving the best performance.
   </figcaption>
 </figure>  
 
-
-
-
-The pipeline produces trained models for the three classifiers, including model evaluation
+<br>The pipeline produces trained models for the three classifiers, including model evaluation
 and feature importances/coefficients. 
 
 In order to run these scripts, an annotated variant file is needed. 
