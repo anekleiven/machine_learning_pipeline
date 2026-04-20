@@ -12,7 +12,9 @@ multiple feature sets, with Random Forest achieving the best performance.
   <figcaption align="center">
     <b>Figure 1:</b> Machine learning pipeline for oncogenicity classification. The pipeline begins with preprocessing and exploratory data analysis, followed by data preparation including feature engineering and data splitting. Five datasets were constructed, each passed through three classifiers (Logistic Regression, Random Forest and XGBoost). Cross-validation and hyperparameter tuning were applied to each classifier. The best performing model per classifier were selected based on F1-score. All three models were evaluated on the test set using F1-score, classification report and confusion matrix. The overall best classifier was identified and applied to subsets of variants within top oncogenic genes. The figure was designed by the author and rendered using the Claude (Anthropic) language model. 
   </figcaption>
-</figure>
+</figure>  
+
+
 
 
 The pipeline produces trained models for the three classifiers, including model evaluation
