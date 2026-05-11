@@ -17,13 +17,6 @@ multiple feature sets, with Random Forest achieving the best performance.
 <br>The pipeline produces trained models for the three classifiers, including model evaluation
 and feature importances/coefficients. 
 
-In order to run these scripts, an annotated variant file is needed. 
-Please follow the instructions in the repositories listed below. 
-
-1. https://github.com/anekleiven/genie_oncokb_processing_scripts
-2. https://github.com/anekleiven/cancer_variants_annotation_pipeline
-3. https://github.com/anekleiven/explore_cancer_variants
-
 ## Requirements 💻
 - Python 3.10+
 
@@ -35,6 +28,16 @@ Please follow the instructions in the repositories listed below.
 
 2. **Install Python Requirements:**
 `pip install -r requirements.txt`
+
+
+## Prerequisites 
+
+In order to run these scripts, an annotated variant file is needed. 
+Please follow the instructions in the repositories listed below, before running these notebooks.
+
+1. https://github.com/anekleiven/genie_oncokb_processing_scripts
+2. https://github.com/anekleiven/cancer_variants_annotation_pipeline
+3. https://github.com/anekleiven/explore_cancer_variants
 
 
 ## Script Descriptions 🗒️
