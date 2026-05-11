@@ -4,3 +4,5 @@
 /.venv
 /images/* 
 !/images/ml_pipeline.png
+data/*
+!data/.gitkeep
