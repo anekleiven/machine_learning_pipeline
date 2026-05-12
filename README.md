@@ -18,7 +18,7 @@ multiple feature sets, with Random Forest achieving the best performance.
 and feature importances/coefficients. 
 
 ## Requirements 💻
-- Python 3.10+
+- Python 3.12+
 
 ## Setup Instructions 🔧
 
