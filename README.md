@@ -1,4 +1,4 @@
-# Machine Learning Pipeline: Cancer Variant Classification 🧬🧬
+# Machine Learning Pipeline: Somatic Variant Classification 🧬🧬
 
 This repository contains a machine learning pipeline for classifying somatic 
 cancer variants from the GENIE dataset as oncogenic or likely neutral. Three 
